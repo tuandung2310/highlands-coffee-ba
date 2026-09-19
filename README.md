@@ -42,4 +42,4 @@ Trong tài liệu có các phần chính như:
 
 ## Tác giả
 
-Võ Văn Quang
+Nguyễn Tuấn Dũng
