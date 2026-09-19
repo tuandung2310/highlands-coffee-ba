@@ -1,5 +1,7 @@
 # Highlands Coffee - Business Analysis
 
+Đây là bài tập nhóm môn Phân tích nghiệp vụ với đề tài Highlands Coffee.
+
 Đây là project phân tích nghiệp vụ cho hệ thống đặt hàng và chăm sóc khách hàng của Highlands Coffee.
 
 Project được thực hiện theo hướng Business Analysis, tập trung vào việc phân tích hiện trạng, xác định yêu cầu và đề xuất trạng thái tương lai cho hệ thống.
